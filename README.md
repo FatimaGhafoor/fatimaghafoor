@@ -57,11 +57,22 @@ Currently focused on building real-world React projects and strengthening my Jav
 ### 📝 Todo App
 A React application for managing daily tasks.
 
+**Tech Stack:** React, JavaScript, CSS
+
 ### 🔢 Counter App
 Built to understand React State, Events, and Re-rendering.
 
+**Tech Stack:** React, JavaScript, CSS
+
 ### 📝 Notes App
 A React application to create, edit, and delete notes with a clean and user-friendly interface.
+
+**Tech Stack:** React, JavaScript, CSS
+
+### 📋 Task Manager (CRUD)
+A responsive task management application with full CRUD functionality, search, filtering, sorting, pagination, drag-and-drop, and local storage support.
+
+**Tech Stack:** HTML, CSS, JavaScript (ES6), Local Storage
 
 ---
 
