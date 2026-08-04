@@ -1,10 +1,8 @@
 # Hi there 👋, I'm Fatima Ghafoor
 
-### 💻 Frontend Developer | React Learner | Future MERN Stack Developer
+### 💻 Frontend Developer | React Developer in Progress | Future MERN Stack Developer
 
-I enjoy turning ideas into interactive web applications while continuously improving my problem-solving skills.
-
-Currently focused on building real-world React projects and strengthening my JavaScript fundamentals.
+I'm a Computer Science graduate passionate about building responsive, user-friendly web applications. I enjoy turning ideas into real projects while continuously improving my JavaScript and React skills.
 
 ---
 
@@ -12,29 +10,28 @@ Currently focused on building real-world React projects and strengthening my Jav
 
 - 🎓 BS Computer Science Graduate
 - 🌱 Currently learning React.js
-- ⚡ Building projects every week
-- 💡 Interested in Frontend Development
-- 🎯 Goal: Become a MERN Stack Developer
-- 📍 Pakistan
-
+- 💻 Building real-world frontend projects
+- 📚 Always learning and improving
+- 🎯 Working towards becoming a MERN Stack Developer
+- 🇵🇰 Based in Pakistan
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,npm" />
+</p>
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 
 ### Frontend
-
 - React
 - Tailwind CSS
 - Responsive Design
 
 ### Tools
-
 - Git
 - GitHub
 - VS Code
@@ -42,53 +39,72 @@ Currently focused on building real-world React projects and strengthening my Jav
 
 ---
 
-## 📚 Currently Learning
+## 📖 Currently Learning
 
-- React Hooks
-- Component Architecture
-- State Management
-- API Integration
-- React Router
+- ⚛️ React Hooks
+- 🧩 Component-Based Architecture
+- 🔄 State Management
+- 🌐 REST API Integration
+- 🛣️ React Router
+- 📱 Responsive UI Development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📝 Todo App
-A React application for managing daily tasks.
+### 📋 Task Manager (CRUD)
+A responsive task management application with complete CRUD functionality, search, filtering, sorting, pagination, drag-and-drop, loading states, toast notifications, and local storage support.
 
-**Tech Stack:** React, JavaScript, CSS
+**Tech Stack:** HTML5 • CSS3 • JavaScript (ES6)
 
-### 🔢 Counter App
-Built to understand React State, Events, and Re-rendering.
-
-**Tech Stack:** React, JavaScript, CSS
+---
 
 ### 📝 Notes App
-A React application to create, edit, and delete notes with a clean and user-friendly interface.
+A React application for creating, editing, deleting, and organizing notes with a clean, responsive user interface.
 
-**Tech Stack:** React, JavaScript, CSS
-
-### 📋 Task Manager (CRUD)
-A responsive task management application with full CRUD functionality, search, filtering, sorting, pagination, drag-and-drop, and local storage support.
-
-**Tech Stack:** HTML, CSS, JavaScript (ES6), Local Storage
+**Tech Stack:** React • JavaScript • CSS
 
 ---
 
-## 📈 GitHub Stats
+### 🌦️ Weather App
+A React application that fetches real-time weather information from a public API and displays current weather conditions by city.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatimaGhafoor&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGhafoor&layout=compact)
-
----
-
-## 🤝 Connect with Me
-
-- LinkedIn: www.linkedin.com/in/fatima-ghafoor-a1b356225
-- Email: channu82411@gmail.com
+**Tech Stack:** React • JavaScript • REST API • CSS
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 🔢 Counter App
+A React project built to master state management, event handling, reusable functions, and component re-rendering.
+
+**Tech Stack:** React • JavaScript • CSS
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Become a MERN Stack Developer
+- 💼 Secure a Frontend Developer Internship
+- 📚 Build 20+ real-world React projects
+- 🌱 Learn Node.js, Express.js & MongoDB
+- 🤝 Contribute to Open Source
+
+---
+
+## 📈 What I'm Focusing On
+
+- ⚛️ Writing clean React components
+- 📦 Building reusable UI
+- 🔄 Managing application state
+- 🌐 Working with APIs
+- 🎨 Creating responsive and accessible interfaces
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/fatima-ghafoor-a1b356225
+- 📧 Email: channu82411@gmail.com
+
+---
+
+> *"Every project is a step toward becoming a better developer."* 🚀
