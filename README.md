@@ -66,10 +66,10 @@ A React application for creating, editing, deleting, and organizing notes with a
 
 ---
 
-### 🌦️ Weather App
-A React application that fetches real-time weather information from a public API and displays current weather conditions by city.
+### ✅ Todo App
+A feature-rich React task management application with CRUD operations, task completion, filtering, search, and persistent storage. Designed with reusable components and responsive UI principles.
 
-**Tech Stack:** React • JavaScript • REST API • CSS
+**Tech Stack:** React • JavaScript • CSS • Local Storage
 
 ---
 
