@@ -106,5 +106,7 @@ A React project built to master state management, event handling, reusable funct
 - 📧 Email: channu82411@gmail.com
 
 ---
+![Profile Views](https://komarev.com)
+
 
 > *"Every project is a step toward becoming a better developer."* 🚀
