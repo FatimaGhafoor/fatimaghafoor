@@ -107,6 +107,8 @@ A React project built to master state management, event handling, reusable funct
 
 ---
 ![Profile Views](https://komarev.com)
+![Fatima's GitHub Stats](https://vercel.app)
+
 
 
 > *"Every project is a step toward becoming a better developer."* 🚀
