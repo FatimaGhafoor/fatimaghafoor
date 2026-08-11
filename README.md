@@ -109,9 +109,6 @@ A React project built to master state management, event handling, reusable funct
 
 
 
-<p align="left">
-  <img src="https://komarev.com" alt="Profile Views" />
-  <img src="https://vercel.app" alt="Fatima's GitHub Stats" />
-</p>
+
 
 "Every project is a step toward becoming a better developer." 🚀
