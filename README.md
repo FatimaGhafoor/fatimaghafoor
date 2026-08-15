@@ -32,6 +32,7 @@ I enjoy turning ideas into practical interfaces, learning how applications work 
 ### 🎯 Currently Focused On
 
 Building production-style React projects, strengthening my frontend fundamentals, and preparing for opportunities as a Frontend Developer. I'm growing from frontend development toward full-stack JavaScript development, while continuing to strengthen my React architecture, API integration, and problem-solving skills through real projects.
+
 [View all projects →](https://github.com/FatimaGhafoor?tab=repositories)
 
 ### 🤝 Open To
