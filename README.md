@@ -1,64 +1,47 @@
 # Hi, I'm Fatima Ghafoor 👋
-
 ### Frontend Developer | React | JavaScript
 
-I build responsive, user-focused web applications that turn ideas into practical, easy-to-use digital experiences.
+Frontend Developer focused on building responsive and user-friendly web applications with JavaScript and React.
 
-My work focuses on clean React architecture, reusable components, state management, and polished interfaces — with a strong focus on building products that are simple and useful for real users.
+I enjoy turning ideas into practical interfaces, learning how applications work under the hood, and improving my code through hands-on projects.
 
----
+### 🛠 Tech Stack
 
-## 🚀 What I Build
+- HTML5 · CSS3 · JavaScript · React
+- Tailwind CSS · React Router
+- Git · GitHub
+- REST APIs · LocalStorage
+- Currently learning: TypeScript
 
-I build frontend applications for users who need **simple, responsive, and intuitive web experiences.**
+### 🚀 What I Build
 
-- 📋 **Task & Productivity Apps** — CRUD workflows, search, filtering, sorting, pagination, drag-and-drop, and persistent data
-- 📝 **Notes & Organization Tools** — interfaces for creating, editing, organizing, and managing information
-- ⚛️ **React Applications** — component-based UIs with state management, reusable logic, and responsive design
-- 🎨 **Interactive Web Interfaces** — responsive layouts, dark mode, forms, navigation, and user-focused interactions
-- 🌐 **JavaScript Applications** — DOM manipulation, API-driven features, and practical frontend functionality
+- ⚛️ React applications with reusable components
+- 🔄 CRUD applications and state-driven UIs
+- 🔎 Search, filtering, and dynamic interfaces
+- 📱 Responsive web applications
+- 🌐 API-based applications
+- 💾 Applications using LocalStorage and browser APIs
 
----
+### 📚 Currently Learning
 
-## 🛠️ Tech Stack
+- Advanced React concepts
+- TypeScript
+- React ecosystem & application architecture
+- Backend development with Node.js and Express
 
-### Frontend
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Responsive Design
+### 🎯 Currently Focused On
 
-### React
-- Components & Props
-- State Management
-- Hooks
-- Component Communication
-- React Router
-- API Integration
-- Local Storage
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- npm
-
----
-
-## 📌 Featured Projects
-
-- **Task Manager** — Full CRUD application with search, filtering, sorting, pagination, drag-and-drop, notifications, and persistent storage.
-- **Todo App** — React productivity application with state management, search, filtering, task completion, and local storage.
-- **Notes App** — React application for creating, editing, and managing notes with a clean user interface.
-- **Counter App** — React project focused on state, events, functional updates, and re-rendering.
-- **Music Player & Image Gallery** — Responsive JavaScript projects demonstrating DOM manipulation and interactive UI development.
-
+Building production-style React projects, strengthening my frontend fundamentals, and preparing for opportunities as a Frontend Developer.
 [View all projects →](https://github.com/FatimaGhafoor?tab=repositories)
 
----
+### 🤝 Open To
 
+Frontend Developer · React Developer · Junior Software Developer opportunities
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/fatima-ghafoor-a1b356225/
+- Email: channu82411@gmail.com
 ## 🎯 What I'm Building Toward
 
 I'm growing from frontend development toward full-stack JavaScript development, while continuing to strengthen my React architecture, API integration, and problem-solving skills through real projects.
@@ -67,4 +50,4 @@ I'm growing from frontend development toward full-stack JavaScript development, 
 
 ## 📬 Contact
 
-**Email:** channu82411@gmail.com
+**Email:** 
