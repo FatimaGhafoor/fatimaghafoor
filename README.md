@@ -11,7 +11,7 @@ I enjoy turning ideas into practical interfaces, learning how applications work 
 - Tailwind CSS · React Router
 - Git · GitHub
 - REST APIs · LocalStorage
-- Currently learning: TypeScript
+- Currently learning: React Ecosystem
 
 ### 🚀 What I Build
 
