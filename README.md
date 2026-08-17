@@ -25,7 +25,6 @@ I enjoy turning ideas into practical interfaces, learning how applications work 
 ### 📚 Currently Learning
 
 - Advanced React concepts
-- TypeScript
 - React ecosystem & application architecture
 - Backend development with Node.js and Express
 
