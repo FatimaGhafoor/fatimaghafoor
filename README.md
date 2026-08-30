@@ -1,54 +1,159 @@
 # Hi, I'm Fatima Ghafoor 👋
+
 ### Frontend Developer | React | JavaScript
 
-Frontend Developer focused on building responsive, user-friendly web applications with JavaScript and React.
+I build responsive, user-focused web applications using **JavaScript and React**, with a focus on reusable components, state management, API integration, and clean UI development.
 
-I build practical projects to strengthen my understanding of component architecture, state management, API integration, and modern frontend development.
+I'm currently expanding into backend development with **Node.js, Express.js, and MongoDB** to grow toward full-stack JavaScript development.
 
-### 🛠 Tech Stack
+---
 
-- HTML5 · CSS3 · JavaScript · React
-- Tailwind CSS · React Router
-- REST APIs · Git · GitHub
-- LocalStorage · Browser APIs
+## 🛠 Tech Stack
 
-### 🚀 What I Build
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Tailwind CSS
+- React Router
+
+### APIs & Data
+- REST APIs
+- Fetch API
+- LocalStorage
+- Browser APIs
+- JSON
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- npm
+
+### Currently Learning
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Authentication
+- Backend API development
+
+---
+
+## 🚀 What I Build
 
 - ⚛️ React applications with reusable components
 - 🔄 CRUD applications and state-driven interfaces
-- 🔎 Search, filtering, and dynamic UIs
-- 🌐 API-integrated applications
-- 💾 Applications using LocalStorage and browser APIs
-- 📱 Responsive web applications
+- 🌐 API-integrated web applications
+- 🔎 Search, filtering, sorting, and dynamic UIs
+- 💾 Applications with LocalStorage and browser persistence
+- 📱 Responsive web interfaces
+- 🔗 Frontend applications consuming REST APIs
 
-### 📚 Currently Learning
+---
 
-- Advanced React & application architecture
-- Node.js
-- Express.js
-- REST API development
-- MongoDB & Mongoose
-- Authentication and backend fundamentals
+## 💻 Featured Projects
 
-### 🎯 Current Focus
+### ⚛️ GitHub User Explorer
 
-I'm currently strengthening my frontend development skills through hands-on React projects while expanding into backend development with Node.js, Express, and MongoDB.
+A React application that allows users to search and explore GitHub profiles using the GitHub API.
 
-My goal is to grow from a Frontend Developer into a Full-Stack JavaScript / MERN Developer by building real-world, production-style applications.
+**Tech:** React · GitHub API · React Router · Reusable Components
 
-### 💻 Featured Projects
+**Highlights:**
+- GitHub API integration
+- User search
+- Dynamic profile data
+- Routing
+- Reusable React components
+- API loading and error states
 
-- ⚛️ React Todo App — CRUD, search, filtering, LocalStorage & dark mode
-- 🔎 GitHub User Explorer — React, GitHub API, routing & reusable components
-- 📋 Task Manager — Vanilla JavaScript, REST API, CRUD, filtering, sorting & pagination
+---
 
-[View all projects →](https://github.com/FatimaGhafoor?tab=repositories)
+### 📝 React Todo App
 
-### 🤝 Open To
+A responsive task management application built to practice React state management and persistent client-side data.
 
-Frontend Developer · React Developer · Junior Software Developer · Paid Internship opportunities
+**Tech:** React · JavaScript · LocalStorage
 
-### 📫 Connect With Me
+**Highlights:**
+- Add, update, and delete tasks
+- Search and filtering
+- Complete/incomplete task management
+- Task statistics
+- LocalStorage persistence
+- Dark mode
+- Component-based architecture
 
-- LinkedIn: https://www.linkedin.com/in/fatima-ghafoor-a1b356225/
-- Email: fatimaghafoor.dev@gmail.com
+---
+
+### 📋 Task Manager
+
+A feature-rich task management application built with Vanilla JavaScript and REST API integration.
+
+**Tech:** JavaScript · REST API · CRUD · LocalStorage
+
+**Highlights:**
+- CRUD operations
+- Search and filtering
+- Sorting
+- Pagination
+- Drag-and-drop task management
+- API error handling
+- Loading states
+- LocalStorage fallback
+
+---
+
+### 🌦 Weather App
+
+A responsive weather application that retrieves real-time weather information through an external API.
+
+**Tech:** JavaScript · REST API · HTML · CSS
+
+**Highlights:**
+- API integration
+- Dynamic weather data
+- User input handling
+- Responsive interface
+- Error handling
+
+---
+
+## 📚 Currently Learning
+
+I'm strengthening my React development skills while building my backend foundation with Node.js, Express.js, and MongoDB.
+
+My current learning path:
+
+**React → REST APIs → Node.js → Express.js → MongoDB → Authentication → MERN Applications**
+
+I learn primarily through **building projects, debugging real problems, and turning concepts into working applications.**
+
+---
+
+## 🎯 Career Focus
+
+I'm currently seeking opportunities as a:
+
+- Frontend Developer
+- React Developer
+- Junior Software Developer
+- Paid Frontend / Software Development Intern
+
+My goal is to contribute to real software projects, continue strengthening my engineering fundamentals, and gradually grow into a **Full-Stack JavaScript / MERN Developer**.
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [Fatima Ghafoor](https://www.linkedin.com/in/fatima-ghafoor-a1b356225/)
+- 📧 Email: fatimaghafoor.dev@gmail.com
+- 💻 GitHub: [FatimaGhafoor](https://github.com/FatimaGhafoor)
+
+---
+
+### 💡 Build. Learn. Improve. Repeat.
+
+I'm continuously turning what I learn into practical projects and using each project to become a better developer.
