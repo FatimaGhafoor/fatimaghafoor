@@ -149,7 +149,7 @@ My goal is to contribute to real software projects, continue strengthening my en
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: [Fatima Ghafoor](https://www.linkedin.com/in/fatima-ghafoor-a1b356225/)
-- 📧 Email: fatimaghafoor.dev@gmail.com
+- 📧 Email: channu82411@gmail.com
 - 💻 GitHub: [FatimaGhafoor](https://github.com/FatimaGhafoor)
 
 ---
