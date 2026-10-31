@@ -159,7 +159,7 @@ I'm currently open to opportunities as a:
 - Junior Software Developer
 - Full Stack Developer Intern
 
-I'm particularly interested in remote opportunities, collaborative development environments, mentorship, and working on real-world software products.
+I'm interested in collaborative development environments, mentorship, and working on real-world software products.
 
 My long-term goal is to grow as a Full Stack Engineer and explore the intersection of web development and AI.
 
