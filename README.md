@@ -5,7 +5,7 @@
 
 I build responsive web applications and RESTful APIs using JavaScript and the MERN stack. My practical experience includes React development, API integration, backend development, authentication, database operations, and CRUD functionality.
 
-I'm passionate about understanding how software works beyond the user interface — from frontend interactions to backend logic, APIs, and databases.
+I'm passionate about understanding how software works beyond the user interface from frontend interactions to backend logic, APIs, and databases.
 
 Currently, I'm strengthening my full-stack development skills through hands-on projects, debugging, and continuous learning.
 
