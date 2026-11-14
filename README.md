@@ -1,7 +1,7 @@
 
 # Hi, I'm Fatima Ghafoor 👋
 
-### Full Stack JavaScript Developer | React.js | Node.js | Express.js | MongoDB
+### Full Stack JavaScript Developer | React.js | Node.js | Express.js | MongoDB | MERN
 
 I build responsive web applications and RESTful APIs using JavaScript and the MERN stack. My practical experience includes React development, API integration, backend development, authentication, database operations, and CRUD functionality.
 
