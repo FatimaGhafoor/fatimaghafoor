@@ -1,42 +1,41 @@
 
 # Hi, I'm Fatima Ghafoor 👋
 
-### Full Stack JavaScript Developer | React.js | Node.js | Express.js | MongoDB | MERN
+### Full-Stack JavaScript Developer | React.js | Node.js | Express.js | MongoDB
 
-I build responsive web applications and RESTful APIs using JavaScript and the MERN stack. My practical experience includes React development, API integration, backend development, authentication, database operations, and CRUD functionality.
+I'm a JavaScript developer focused on building responsive web applications and RESTful APIs using the MERN stack.
 
-I'm passionate about understanding how software works beyond the user interface from frontend interactions to backend logic, APIs, and databases.
+I enjoy understanding how software works beyond the user interface — from frontend interactions and HTTP communication to backend architecture, authentication, database operations, and application security.
 
-Currently, I'm strengthening my full-stack development skills through hands-on projects, debugging, and continuous learning.
+Currently, I'm strengthening my full-stack engineering skills through practical projects, problem-solving, debugging, and a deeper understanding of software development fundamentals.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Frontend Development
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+**Frontend Development**
+- HTML5, CSS3, JavaScript (ES6+)
 - React.js
 - Tailwind CSS
 - React Router
+- Axios
 
-### Backend Development
+**Backend Development**
 - Node.js
 - Express.js
 - RESTful API Development
 - JWT Authentication & Authorization
-- Middleware
+- Middleware & Protected Routes
 - Zod Validation
-- Error Handling
+- Centralized Error Handling
 
-### Database & Data
+**Database & Data Management**
 - MongoDB
 - Mongoose
 - JSON
 - LocalStorage
 
-### Tools & Workflow
+**Development Tools**
 - Git & GitHub
 - VS Code
 - npm
@@ -47,51 +46,71 @@ Currently, I'm strengthening my full-stack development skills through hands-on p
 
 ## 🚀 Featured Projects
 
-### 1. Task Management API
+### 1. Task Manager — Full-Stack Application
 
-A RESTful backend application built with Node.js and Express.js to manage user-specific tasks with authentication and authorization.
+A full-stack task management application built with React and Node.js, featuring user authentication and personalized task management.
+
+**Tech Stack:** React · JavaScript · Node.js · Express.js · MongoDB · Mongoose · JWT · Axios
+
+**Key Features:**
+- User registration and login
+- JWT-based authentication
+- Protected routes and authorization
+- Automatic token handling using Axios interceptors
+- Task creation, updating, and deletion
+- User-specific task management
+- API integration between frontend and backend
+- Loading and error states
+- Responsive dashboard interface
+
+🔗 [View Repository](https://github.com/FatimaGhafoor/task-manager-fullstack)
+
+### 2. Task Management API
+
+A RESTful backend application designed to manage user-specific tasks with authentication, authorization, and request validation.
 
 **Tech Stack:** Node.js · Express.js · MongoDB · Mongoose · JWT · Zod · Swagger
 
 **Key Features:**
 - User registration and login
-- Password hashing with bcryptjs
+- Password hashing using bcryptjs
 - JWT-based authentication
-- Protected routes and authorization
+- Protected API endpoints
 - CRUD operations for tasks
 - Request validation using Zod
-- User-specific task management
+- User-specific resource authorization
 - Centralized error handling
 - API documentation with Swagger
 
 🔗 [View Repository](https://github.com/FatimaGhafoor/task-api)
 
-### 2. GitHub User Explorer
+### 3. GitHub User Explorer
 
 A React application that allows users to search and explore GitHub profiles using the GitHub API.
 
-**Tech Stack:** React · JavaScript · GitHub API · React Router
+**Tech Stack:** React · JavaScript · GitHub API · Axios · React Router
 
 **Key Features:**
 - GitHub API integration
-- User search and dynamic profile data
+- Dynamic user profile search
 - Reusable React components
 - Client-side routing
 - Loading and error states
 - Search filtering and pagination
+- API response handling
 
 🔗 [View Repository](https://github.com/FatimaGhafoor/github-user-explorer)
 
-### 3. React Todo App
+### 4. React Todo App
 
-A responsive task management application built to practice React fundamentals, component-based architecture, and state management.
+A responsive task management application developed to strengthen React fundamentals and component-based application development.
 
 **Tech Stack:** React · JavaScript · LocalStorage
 
 **Key Features:**
 - Add, update, and delete tasks
 - Search and filtering
-- Complete and incomplete task management
+- Task completion management
 - Task statistics
 - LocalStorage persistence
 - Dark mode
@@ -99,9 +118,9 @@ A responsive task management application built to practice React fundamentals, c
 
 🔗 [View Repository](https://github.com/FatimaGhafoor/my-todo-app)
 
-### 4. Task Manager
+### 5. Vanilla JavaScript Task Manager
 
-A task management application built with Vanilla JavaScript, focusing on CRUD functionality and REST API integration.
+A task management application built with Vanilla JavaScript, focusing on CRUD operations, application logic, and REST API integration.
 
 **Tech Stack:** JavaScript · REST API · HTML5 · CSS3
 
@@ -114,54 +133,40 @@ A task management application built with Vanilla JavaScript, focusing on CRUD fu
 - Loading states
 - LocalStorage fallback
 
-🔗 [View Repository](https://github.com/FatimaGhafoor)
-
-### 5. Weather App
-
-A responsive weather application that retrieves and displays weather information through an external API.
-
-**Tech Stack:** JavaScript · REST API · HTML5 · CSS3
-
-**Key Features:**
-- External API integration
-- Dynamic weather information
-- User input handling
-- Responsive interface
-- Error handling
-
 🔗 [Explore My Repositories](https://github.com/FatimaGhafoor?tab=repositories)
 
 ---
 
-## 📚 Currently Exploring
+## 📚 Currently Learning & Exploring
 
-I'm continuously improving my understanding of:
+I'm continuously working on strengthening my software engineering foundations:
 
-- Advanced JavaScript and problem-solving
-- React architecture and performance
-- Node.js and Express.js
+- Advanced JavaScript and asynchronous programming
+- React architecture and application design
+- Node.js and Express.js internals
+- HTTP, networking, and API communication
 - Database design and query optimization
-- Authentication and authorization
+- Authentication and application security
 - Data Structures and Algorithms
-- System Design fundamentals
+- Problem-solving and System Design fundamentals
 - AI integration in web applications
 
-My learning approach is simple: understand the fundamentals, build practical solutions, debug independently, and improve through feedback.
+My learning philosophy is to understand the concepts behind the code, build practical solutions, debug independently, and continuously improve through feedback.
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Career Interests
 
-I'm currently open to opportunities as a:
+I'm interested in opportunities as a:
 
-- Junior Full Stack JavaScript Developer
-- Junior Frontend / React Developer
+- Junior Full-Stack JavaScript Developer
+- Junior React / Frontend Developer
 - Junior Software Developer
-- Full Stack Developer Intern
+- Full-Stack Developer Intern
 
-I'm interested in collaborative development environments, mentorship, and working on real-world software products.
+I'm looking forward to collaborating with development teams, learning from experienced engineers, and contributing to real-world software products.
 
-My long-term goal is to grow as a Full Stack Engineer and explore the intersection of web development and AI.
+My long-term goal is to grow into a strong Full-Stack Software Engineer and explore the intersection of Web Development and Artificial Intelligence.
 
 ---
 
@@ -173,6 +178,6 @@ My long-term goal is to grow as a Full Stack Engineer and explore the intersecti
 
 ---
 
-### 💡 Build. Learn. Improve. Repeat.
+### 💡 Build. Understand. Improve. Repeat.
 
-I believe strong developers are built through curiosity, consistent practice, and the willingness to solve problems beyond the documentation.
+I believe becoming a strong software engineer is not just about writing code. It's about understanding problems, learning how systems work, making thoughtful decisions, and building solutions that make a difference.
